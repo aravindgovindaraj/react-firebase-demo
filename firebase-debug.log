@@ -1,0 +1,21 @@
+[debug] [2022-11-27T19:34:47.979Z] ----------------------------------------------------------------------
+[debug] [2022-11-27T19:34:47.987Z] Command:       /usr/local/bin/node /home/charanjit/.npm-global/bin/firebase init
+[debug] [2022-11-27T19:34:47.990Z] CLI Version:   11.16.1
+[debug] [2022-11-27T19:34:47.991Z] Platform:      linux
+[debug] [2022-11-27T19:34:47.991Z] Node Version:  v19.1.0
+[debug] [2022-11-27T19:34:47.992Z] Time:          Sun Nov 27 2022 19:34:47 GMT+0000 (Greenwich Mean Time)
+[debug] [2022-11-27T19:34:47.993Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-11-27T19:34:48.020Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-11-27T19:34:48.022Z] > authorizing via signed-in user (garavindkumar@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/charanjit/react/reactapp-demo-fbase
+
