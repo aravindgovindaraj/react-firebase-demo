@@ -9,12 +9,9 @@ function App() {
         <p>
           This is react-demo-fbase 
         </p>
-        <a
-          className="App-link"
-          rel="noopener noreferrer"
-        >
-          Learn React with fire base deployment
-        </a>
+        <p>
+        Learn React with fire base deployment
+        </p>
       </header>
     </div>
   );
